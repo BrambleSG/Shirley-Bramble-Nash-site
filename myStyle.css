@@ -1,0 +1,22 @@
+h1 {
+  text-transform: uppercase;
+}
+body {
+  background-color: #680747;
+  text-align: center;
+  color: #c3195d;
+  font-family: "MuseoModerno";
+}
+.show {
+  background-color: #f70776;
+  color: #141010;
+}
+.row {
+  margin-top: 100px;
+  min-height: 100px;
+  justify-content: space-between;
+}
+img {
+  width: 300px;
+  height: auto;
+}
